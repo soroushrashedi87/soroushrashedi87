@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-My name is Soroush Rashidi. I am a front end developer. I have been working in this field for almost 2 years and I am incredibly passionate about my work.
+My name is Soroush Rashedi. I am a front end developer. I have been working in this field for almost 2 years and I am incredibly passionate about my work.
 
 *   🌍  I'm based in IRAN
 *   ✉️  You can contact me at [soroushrashedi87@gmail.com](mailto:soroushrashedi87@gmail.com)
