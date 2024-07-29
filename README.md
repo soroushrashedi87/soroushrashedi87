@@ -37,7 +37,8 @@ My name is Soroush Rashidi. I am a front end developer. I have been working in t
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
-                    </a><a
+                    </a>
+  <br/><a
                       href="http://www.github.com/soroushrashedi87"><img src="https://github-readme-stats.vercel.app/api?username=soroushrashedi87&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&show_icons=true" alt="soroushrashedi87's GitHub stats" /></a><a
                       href="http://www.github.com/soroushrashedi87"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=soroushrashedi87&stroke=ffffff&background=312e81&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
